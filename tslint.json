@@ -1,0 +1,28 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:all",
+        "tslint-microsoft-contrib"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-inferrable-types": true,
+        "typedef": [
+            true,
+            "call-signature",
+            "parameter"
+        ],
+        "import-name": false,
+        "no-implicit-dependencies": [
+            true,
+            "dev"
+        ],
+        "no-relative-imports": false,
+        "no-default-import": false,
+        "no-default-export": false,
+        "export-name": false
+    },
+    "rulesDirectory": [
+        "node_modules/tslint-microsoft-contrib"
+    ]
+}
