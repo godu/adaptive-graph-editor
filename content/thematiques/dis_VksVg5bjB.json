@@ -1,0 +1,42 @@
+{
+    "ref": "dis_VksVg5bjB",
+    "universalRef": "dis_VksVg5bjB",
+    "name": "dis_VksVg5bjB.name",
+    "cover": {
+        "description": "dis_VksVg5bjB.coverDescription",
+        "media": {
+            "type": "img",
+            "mimeType": "image/jpeg",
+            "mediaUrl": "med_4Jbzh4KMU.mediaUrl_4yMf24KMU"
+        }
+    },
+    "position": 9000,
+    "groups": [
+        "ALL",
+        "them_NJaShEtGL"
+    ],
+    "partners": [
+        "part_N1WAPMLkB"
+    ],
+    "partnershipType": "custom",
+    "hidden": false,
+    "conditions": [],
+    "modules": [
+        {
+            "ref": "mod_EytIlcboS",
+            "universalRef": "mod_EytIlcboS",
+            "level": "base",
+            "timeAlloted": 5,
+            "chapterIds": [
+                "cha_4JAUlqWor"
+            ],
+            "eligibleBattle": true,
+            "version": "2",
+            "taggedNewUntil": "2018-12-18T16:05:28.523Z",
+            "isConditional": true
+        }
+    ],
+    "version": "2",
+    "taggedNewUntil": "2018-12-18T16:04:59.334Z",
+    "skills": []
+}

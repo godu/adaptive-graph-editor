@@ -1,0 +1,322 @@
+{
+    "ALL": {
+        "name": "All"
+    },
+    "them_NJaShEtGL": {
+        "name": "L'intelligence artificielle"
+    },
+    "med_4Jbzh4KMU": {
+        "mediaUrl_4yMf24KMU": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/eval_fdj-1530287598366.jpg"
+    },
+    "dis_VksVg5bjB": {
+        "name": "TEST DE POSITIONNEMENT - L'Intelligence Artificielle",
+        "coverDescription": "Répondez aux 10 questions de ce test de positionnement. <br/> À l'issue du test, vous connaîtrez votre niveau sur le thème de l'intelligence artificielle. Vous aurez également la liste des chapitres adaptés à votre profil pour que vous puissiez approfondir vos connaissances.\n<br/><br/>\n<b>Bon test !</b> <br/><br/>"
+    },
+    "cha_4JAUlqWor": {
+        "name": "Assessment l'Intelligence Artificielle"
+    },
+    "sli_41SkMqWoB": {
+        "header": "Quel est le principe des algorithmes de recommandation ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_EJkZf9~iB": "Proposer des produits similaires à des clients différents",
+        "choice_V1g~GqWoS": "Proposer des produits similaires à des clients similaires",
+        "choice_4JWWfqZir": "Proposer des produits différents à des clients similaires"
+    },
+    "sli_4JrQb5WjS": {
+        "header": "Parmi les propositions suivantes, quelle est la meilleure définition de l'intelligence artificielle ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_VJCBW5WjB": "Le développement de systèmes informatiques pensant ou agissant comme le ferait un être humain",
+        "choice_NJ~LbqWsH": "La branche de l'informatique consacrée au développement de chatbots et autres interfaces conversationnelles",
+        "choice_VkfU~9Zor": "Le processus de création de « personnages non joueurs » dans les jeux vidéo"
+    },
+    "sli_4yLNj9boS": {
+        "header": "Quel défi posé par les objets connectés peut être résolu par l'utilisation de l'IA ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_EyRrjcbiS": "L'harmonisation de la langue d'usage de ces objets",
+        "choice_41J8s5~jH": "La collecte et l'exploitation d'une masse de données",
+        "choice_VklUs9WsB": "Le fonctionnement optimisé des box de télécoms",
+        "choice_V1zLjqboB": "L'IA et les objets connectés ne peuvent pas fonctionner simultanément"
+    },
+    "sli_E1A-vq~iB": {
+        "header": "Qu'est-ce qu'un chatbot ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_4kwqD9~iB": "Un robot en forme de chat",
+        "choice_VkK9DcZsH": "Une application de messagerie",
+        "choice_4y59P9ZjB": "Un assistant virtuel qui interagit avec les clients",
+        "choice_VJjcPq~oB": "Un programme de « deep learning »"
+    },
+    "sli_E1Dqbq~iH": {
+        "header": "En informatique, qu’est-ce qu’un algorithme ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_Nkco~5ZjS": "Une machine qui contrôle un ensemble de robots",
+        "choice_EksibqZir": "La puissance de calcul d’un ordinateur",
+        "choice_4JCibqWoH": "Un ensemble de règles à suivre pour résoudre un problème"
+    },
+    "sli_EJP4GcbiH": {
+        "header": "Quel est le principe du machine learning ?",
+        "explanation": "Sélectionnez la bonne réponse dans le menu déroulant.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "template": "Le machine learning s’appuie sur {{sel45875}} permettant de développer des algorithmes.",
+        "choice_Eygcvz9ZiH": "le déploiement de robots",
+        "choice_NJb5wzqZsH": "de l’apprentissage automatique",
+        "choice_41XdGcZoS": "le codage d’un ensemble de règles"
+    },
+    "sli_N1p5q9ZiS": {
+        "header": "Comment l'IA aide-t-elle à améliorer la relation client ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_VJbh5cWsB": "Elle amuse le client en lui proposant des blagues",
+        "choice_VkGhq9ZjB": "Elle approfondit sa connaissance du client au fur et à mesure du comportement de celui-ci",
+        "choice_VJ735q~jS": "L'IA n'intervient pas dans le domaine de la relation client"
+    },
+    "sli_N1u~P5ZoB": {
+        "header": "De quel type de structure le deep learning s'inspire-t-il ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_V1l-zD5~iB": "Du cerveau humain",
+        "choice_EklofDqWsB": "Des écosystèmes coralliens",
+        "choice_NkxpzDcZsB": "Des particules subatomiques"
+    },
+    "med_VJ-Mw9bjB": {
+        "mediaUrl_4kuHvqbiS": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/cerveau-1539876902075.jpg"
+    },
+    "med_VyiGv5WsS": {
+        "mediaUrl_EJjHw5WiH": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/corail-1539876905874.jpg"
+    },
+    "med_N1pGv9Wjr": {
+        "mediaUrl_N1y8wq~sB": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/atomes-1539876909247.jpg"
+    },
+    "sli_NyiJsqZoB": {
+        "header": "Quelles sont les caractéristiques d'un système d'IA ?",
+        "explanation": "Sélectionnez la bonne réponse.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_4JWbjqbiB": "Une capacité illimitée d'intégration de données",
+        "choice_4JXbo5boH": "Une capacité linguistique élevée",
+        "choice_N1N~sqZsH": "Une capacité d'apprentissage et d'amélioration permanente",
+        "choice_E1BZj5biB": "Toutes les propositions"
+    },
+    "sli_VytO7qbjH": {
+        "header": "Dans le machine learning, des données sont fournies à un algorithme. Qui établit les corrélations entre ces données ?",
+        "explanation": "Sélectionnez la bonne réponse ci-dessous.",
+        "klf": "",
+        "tips": "",
+        "clue": "",
+        "context_title": "",
+        "context_description": "",
+        "context_media_description": "",
+        "choice_VysAm5WjS": "L'algorithme lui-même",
+        "choice_E12AX9~sS": "Le développeur",
+        "choice_N1R0QqbjS": "Les utilisateurs"
+    },
+    "med_VJi0ft-fX": {
+        "mediaUrl_Ekeymt-Mm": "//static.coorpacademy.com/content/CoorpAcademy/content-brightness/cockpit-brightness/poster/shutterstock_518102128-1497338815605.jpg"
+    },
+    "med_N1S1mtOM7": {
+        "mediaUrl_EkoyXtuGQ": "//static.coorpacademy.com/content/CoorpAcademy/content-brightness/cockpit-brightness/poster/shutterstock_249279562-1497338826666.jpg"
+    },
+    "med_4JIFWeNIE": {
+        "mediaUrl_Nk5tblVLE": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_expert-1516978264023.png"
+    },
+    "exi_41khnawjS": {
+        "title": "Vous avez 9/10 ! Bravo, vous êtes un as de l'intelligence artificielle !",
+        "description": "<center>L'intelligence artificielle n'a presque aucun secret pour vous. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_EkXIMysH4\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_4kzuGysBV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_41segHwWV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "med_EJQMflVIE": {
+        "mediaUrl_EJIffgE84": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_confirme-1516978253070.png"
+    },
+    "med_4kvDkNVBV": {
+        "mediaUrl_VkTD1VEBN": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_debutant-1516978237061.png"
+    },
+    "med_EkU9MYdMX": {
+        "mediaUrl_4kL0MYdzQ": "//static.coorpacademy.com/content/CoorpAcademy/content-brightness/cockpit-brightness/poster/shutterstock_550489705-1497338805775.jpg"
+    },
+    "exi_4y3zKaDsS": {
+        "title": "Vous avez 5/10 ! Vos connaissances sur l'intelligence artificielle sont plutôt bonnes mais vous pouvez faire mieux !",
+        "description": "<center>L'intelligence artificielle, vous connaissez ! <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_EyBmzyoH4\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_Ey4NfJjBV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VkD3ySw~E\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "exi_4y8fPTPiS": {
+        "title": "Vous avez 3/10 ! Vous connaissez certains aspects de l'intelligence artificielle mais vous pouvez mieux faire.",
+        "description": "<center>Vous êtes encore novice sur l'intelligence artificielle. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_NkUo~yoHE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_V1UCTEP~V\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VknGJrDbE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "exi_4yjSh6wjS": {
+        "title": "Vous avez 8/10 ! Bravo, vous êtes un as de l'intelligence artificielle !",
+        "description": "<center>L'intelligence artificielle n'a presque aucun secret pour vous. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_EkXIMysH4\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_4kzuGysBV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_41segHwWV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "exi_4yjtXxXiS": {
+        "title": "Vous avez 2/10 ! Vous connaissez certains aspects de l'intelligence artificielle mais vous pouvez mieux faire. ",
+        "description": "<center>Vous êtes débutant sur l'intelligence artificielle. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_NkUo~yoHE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_V1UCTEP~V\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VknGJrDbE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "exi_EkJv9pDsH": {
+        "title": "Vous avez 6/10 ! Vos connaissances sur l'intelligence artificielle sont plutôt bonnes mais vous pouvez faire mieux !",
+        "description": "<center>L'intelligence artificielle, vous connaissez ! <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_EyBmzyoH4\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_Ey4NfJjBV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VkD3ySw~E\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "med_4yxXv5p2G": {
+        "mediaUrl_4kB7P5a3G": "//static.coorpacademy.com/content/CoorpAcademy/content-partnerships-fabernovel/cockpit-fabernovel/poster/shutterstock_9259708-1491472323213.jpg"
+    },
+    "med_EyCXP9p3G": {
+        "mediaUrl_4yGVv9Thz": "//static.coorpacademy.com/content/CoorpAcademy/content-partnerships-fabernovel/cockpit-fabernovel/poster/shutterstock_11637691-1491472341771.jpg"
+    },
+    "med_NyvVD9a2f": {
+        "mediaUrl_V1j4P5T2G": "//static.coorpacademy.com/content/CoorpAcademy/content-partnerships-fabernovel/cockpit-fabernovel/poster/shutterstock_6197893-1491472349807.jpg"
+    },
+    "exi_Ekzj29WiB": {
+        "title": "Vous avez 0/10 ! Vous pouvez mieux faire.",
+        "description": "<center>Vous êtes débutant sur l'intelligence artificielle. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_NkUo~yoHE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_V1UCTEP~V\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VknGJrDbE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "med_E1fWGgNLN": {
+        "mediaUrl_EJ4WGeEL4": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_confirme-1516978253070.png"
+    },
+    "med_NJ28~lVIV": {
+        "mediaUrl_4kRIZxNIE": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_expert-1516978264023.png"
+    },
+    "med_4JmFn54jf": {
+        "mediaUrl_Nk2t254iz": "//static.coorpacademy.com/content/CoorpAcademy/content-digital-core/cockpit-digital-2016/poster/good-profil-1489743193796.jpg"
+    },
+    "med_Nke5nqEjz": {
+        "mediaUrl_Nywq29VsM": "//static.coorpacademy.com/content/CoorpAcademy/content-digital-core/cockpit-digital-2016/poster/profil-moyen-1489743207274.jpg"
+    },
+    "exi_VJA~TTDjS": {
+        "title": "Vous avez 10/10 ! Bravo, vous êtes un as de l'intelligence artificielle !",
+        "description": "<center>L'intelligence artificielle n'a presque aucun secret pour vous. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_EkXIMysH4\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_4kzuGysBV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_41segHwWV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Coach_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "exi_VJJfsawiH": {
+        "title": "Vous avez 7/10 ! Vos connaissances sur l'intelligence artificielle sont plutôt bonnes mais vous pouvez faire mieux !",
+        "description": "<center>L'intelligence artificielle, vous connaissez ! <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_EyBmzyoH4\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_Ey4NfJjBV\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VkD3ySw~E\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Avance_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "med_41YqncEof": {
+        "mediaUrl_VygohcEsz": "//static.coorpacademy.com/content/CoorpAcademy/content-digital-core/cockpit-digital-2016/poster/bad-profil-1489743216202.jpg"
+    },
+    "exi_VJm-6c~jH": {
+        "title": "Vous avez 1/10 ! Vous connaissez certains aspects de l'intelligence artificielle mais vous pouvez mieux faire. ",
+        "description": "<center>Vous êtes débutant sur l'intelligence artificielle. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_NkUo~yoHE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_V1UCTEP~V\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VknGJrDbE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "med_EJMLyEVBE": {
+        "mediaUrl_41aU1NVS4": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_debutant-1516978237061.png"
+    },
+    "exi_VksODpwoS": {
+        "title": "Vous avez 4/10 ! Vous connaissez certains aspects de l'intelligence artificielle mais vous pouvez mieux faire.",
+        "description": "<center>Vous êtes encore novice sur l'intelligence artificielle. <br/></center>\nPour aller plus loin, merci de réaliser dans un premier temps le cours FDJ :<br/><br/>\n<center>\n<a href=\"/learner/mod_Vk6xZ5WiB\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/MarqueEmployeur_VideoFDJ_clean.png\"/></a>\n</center>\n\n<br/><center>Puis pour approfondir vos connaissances nous vous invitons à regarder les cours, de niveau base, suivants :<br/>\n<a href=\"/microlearning/cha_NkUo~yoHE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_1_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_V1UCTEP~V\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_2_clean.jpg\"/></a>\n<a href=\"/microlearning/cha_VknGJrDbE\" target=\"_blank\"><img src=\"https://static.coorpacademy.com/content/fdj/raw/IA_Base_3_clean.jpg\"/></a>\n</center>\n\n"
+    },
+    "med_VJzdJ4NHE": {
+        "mediaUrl_NJOdkNNSN": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_debutant-1516978237061.png"
+    },
+    "med_VJsZMlNLN": {
+        "mediaUrl_4y6bflNLN": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_confirme-1516978253070.png"
+    },
+    "med_4JbLZeVLV": {
+        "mediaUrl_E1mIbgELV": "//static.coorpacademy.com/content/CoorpAcademy/content-fdj/cockpit-fdj/default/lvl_expert-1516978264023.png"
+    },
+    "skill_41BBqFKoS": {
+        "name": "Sensibilité culturelle"
+    },
+    "skill_41HaT-0hH": {
+        "name": "Esprit critique"
+    },
+    "skill_4yYT0YPTB": {
+        "name": "Orientation utilisateur"
+    },
+    "skill_4yw5hYFjH": {
+        "name": "Dextérité digitale"
+    },
+    "skill_E1mUIKFir": {
+        "name": "Négociation et pouvoir de persuasion"
+    },
+    "skill_Ek7p3ttjB": {
+        "name": "Communication digitale"
+    },
+    "skill_EkRYdKYjB": {
+        "name": "Expression écrite"
+    },
+    "skill_Ekp8mtR3H": {
+        "name": "Manager son équipe"
+    },
+    "skill_EkqMRttoB": {
+        "name": "Management d'équipe"
+    },
+    "skill_EyKgMtA2r": {
+        "name": "Agilité"
+    },
+    "skill_EyN6y5tiH": {
+        "name": "Sensibilisation aux risques numériques"
+    },
+    "skill_N1rdPKKjS": {
+        "name": "Être un leader"
+    },
+    "skill_NJC0jFKoH": {
+        "name": "Gestion du temps"
+    },
+    "skill_NJmkIFYiS": {
+        "name": "Intelligence émotionnelle"
+    },
+    "skill_NkOqattjS": {
+        "name": "Culture data"
+    },
+    "skill_NkV-fv0nS": {
+        "name": "Gestion des conflits"
+    },
+    "skill_Ny2AvgZRB": {
+        "name": "Créativité et innovation"
+    },
+    "skill_NywvsbWCH": {
+        "name": "Écoute active"
+    },
+    "skill_NyxtYFYir": {
+        "name": "Culture digitale"
+    },
+    "skill_Vk66IttsS": {
+        "name": "Prise de parole"
+    },
+    "skill_VybSJ5KjS": {
+        "name": "Résolution de problèmes"
+    }
+}

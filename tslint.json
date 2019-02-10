@@ -1,28 +1,32 @@
 {
-    "defaultSeverity": "error",
-    "extends": [
-        "tslint:all",
-        "tslint-microsoft-contrib"
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:all",
+    "tslint-react",
+    "tslint-microsoft-contrib"
+  ],
+  "linterOptions": {
+    "format": "verbose"
+  },
+  "jsRules": {},
+  "rules": {
+    "no-inferrable-types": true,
+    "match-default-export-name": false,
+    "typedef": [
+      true,
+      "call-signature",
+      "parameter"
     ],
-    "jsRules": {},
-    "rules": {
-        "no-inferrable-types": true,
-        "typedef": [
-            true,
-            "call-signature",
-            "parameter"
-        ],
-        "import-name": false,
-        "no-implicit-dependencies": [
-            true,
-            "dev"
-        ],
-        "no-relative-imports": false,
-        "no-default-import": false,
-        "no-default-export": false,
-        "export-name": false
-    },
-    "rulesDirectory": [
-        "node_modules/tslint-microsoft-contrib"
-    ]
+    "import-name": false,
+    "no-implicit-dependencies": [
+      true,
+      "dev"
+    ],
+    "no-relative-imports": false,
+    "no-default-import": false,
+    "no-default-export": false,
+    "export-name": false,
+    "variable-name": false,
+    "interface-name": false
+  }
 }

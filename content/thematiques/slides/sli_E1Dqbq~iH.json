@@ -1,0 +1,39 @@
+{
+    "_id": "sli_E1Dqbq~iH",
+    "universalRef": "sli_E1Dqbq~iH",
+    "discipline": "dis_VksVg5bjB",
+    "module": "mod_EytIlcboS",
+    "chapter": "cha_4JAUlqWor",
+    "question": {
+        "type": "qcm",
+        "header": "sli_E1Dqbq~iH.header",
+        "explanation": "sli_E1Dqbq~iH.explanation",
+        "content": {
+            "choices": [
+                {
+                    "id": "sli_E1Dqbq~iH.id",
+                    "label": "sli_E1Dqbq~iH.choice_Nkco~5ZjS",
+                    "value": "sli_E1Dqbq~iH.choice_Nkco~5ZjS"
+                },
+                {
+                    "id": "sli_E1Dqbq~iH.id",
+                    "label": "sli_E1Dqbq~iH.choice_EksibqZir",
+                    "value": "sli_E1Dqbq~iH.choice_EksibqZir"
+                },
+                {
+                    "id": "sli_E1Dqbq~iH.id",
+                    "label": "sli_E1Dqbq~iH.choice_4JCibqWoH",
+                    "value": "sli_E1Dqbq~iH.choice_4JCibqWoH"
+                }
+            ],
+            "answers": [
+                [
+                    "sli_E1Dqbq~iH.choice_4JCibqWoH"
+                ]
+            ]
+        }
+    },
+    "klf": "sli_E1Dqbq~iH.klf",
+    "tips": "sli_E1Dqbq~iH.tips",
+    "lessons": []
+}

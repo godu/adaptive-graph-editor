@@ -1,0 +1,39 @@
+{
+    "_id": "sli_41SkMqWoB",
+    "universalRef": "sli_41SkMqWoB",
+    "discipline": "dis_VksVg5bjB",
+    "module": "mod_EytIlcboS",
+    "chapter": "cha_4JAUlqWor",
+    "question": {
+        "type": "qcm",
+        "header": "sli_41SkMqWoB.header",
+        "explanation": "sli_41SkMqWoB.explanation",
+        "content": {
+            "choices": [
+                {
+                    "id": "sli_41SkMqWoB.id",
+                    "label": "sli_41SkMqWoB.choice_EJkZf9~iB",
+                    "value": "sli_41SkMqWoB.choice_EJkZf9~iB"
+                },
+                {
+                    "id": "sli_41SkMqWoB.id",
+                    "label": "sli_41SkMqWoB.choice_V1g~GqWoS",
+                    "value": "sli_41SkMqWoB.choice_V1g~GqWoS"
+                },
+                {
+                    "id": "sli_41SkMqWoB.id",
+                    "label": "sli_41SkMqWoB.choice_4JWWfqZir",
+                    "value": "sli_41SkMqWoB.choice_4JWWfqZir"
+                }
+            ],
+            "answers": [
+                [
+                    "sli_41SkMqWoB.choice_V1g~GqWoS"
+                ]
+            ]
+        }
+    },
+    "klf": "sli_41SkMqWoB.klf",
+    "tips": "sli_41SkMqWoB.tips",
+    "lessons": []
+}

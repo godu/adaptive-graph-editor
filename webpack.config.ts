@@ -1,17 +1,21 @@
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 import { join } from 'path';
-import { Configuration, HotModuleReplacementPlugin } from 'webpack';
+import { Configuration } from 'webpack';
 
 const configuration: Configuration = {
   mode: 'production',
 
   entry: {
-    app: join(__dirname, 'src/index.ts')
+    app: join(__dirname, 'src/index.tsx')
+  },
+
+  resolve: {
+    extensions: ['.ts', '.tsx', '.wasm', '.mjs', '.js', '.json']
   },
 
   module: {
     rules: [
-      { test: /\.tsx?$/, loader: 'ts-loader' }
+      { test: /\.tsx?$/, loader: 'ts-loader', options: { transpileOnly: true } }
     ]
   },
 

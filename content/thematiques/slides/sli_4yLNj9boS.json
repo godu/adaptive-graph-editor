@@ -1,0 +1,44 @@
+{
+    "_id": "sli_4yLNj9boS",
+    "universalRef": "sli_4yLNj9boS",
+    "discipline": "dis_VksVg5bjB",
+    "module": "mod_EytIlcboS",
+    "chapter": "cha_4JAUlqWor",
+    "question": {
+        "type": "qcm",
+        "header": "sli_4yLNj9boS.header",
+        "explanation": "sli_4yLNj9boS.explanation",
+        "content": {
+            "choices": [
+                {
+                    "id": "sli_4yLNj9boS.id",
+                    "label": "sli_4yLNj9boS.choice_EyRrjcbiS",
+                    "value": "sli_4yLNj9boS.choice_EyRrjcbiS"
+                },
+                {
+                    "id": "sli_4yLNj9boS.id",
+                    "label": "sli_4yLNj9boS.choice_41J8s5~jH",
+                    "value": "sli_4yLNj9boS.choice_41J8s5~jH"
+                },
+                {
+                    "id": "sli_4yLNj9boS.id",
+                    "label": "sli_4yLNj9boS.choice_VklUs9WsB",
+                    "value": "sli_4yLNj9boS.choice_VklUs9WsB"
+                },
+                {
+                    "id": "sli_4yLNj9boS.id",
+                    "label": "sli_4yLNj9boS.choice_V1zLjqboB",
+                    "value": "sli_4yLNj9boS.choice_V1zLjqboB"
+                }
+            ],
+            "answers": [
+                [
+                    "sli_4yLNj9boS.choice_41J8s5~jH"
+                ]
+            ]
+        }
+    },
+    "klf": "sli_4yLNj9boS.klf",
+    "tips": "sli_4yLNj9boS.tips",
+    "lessons": []
+}

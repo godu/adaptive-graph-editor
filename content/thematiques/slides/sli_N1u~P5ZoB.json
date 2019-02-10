@@ -1,0 +1,66 @@
+{
+    "_id": "sli_N1u~P5ZoB",
+    "universalRef": "sli_N1u~P5ZoB",
+    "discipline": "dis_VksVg5bjB",
+    "module": "mod_EytIlcboS",
+    "chapter": "cha_4JAUlqWor",
+    "question": {
+        "type": "qcmGraphic",
+        "header": "sli_N1u~P5ZoB.header",
+        "explanation": "sli_N1u~P5ZoB.explanation",
+        "content": {
+            "choices": [
+                {
+                    "id": "sli_N1u~P5ZoB.id",
+                    "label": "sli_N1u~P5ZoB.choice_V1l-zD5~iB",
+                    "value": "sli_N1u~P5ZoB.choice_V1l-zD5~iB",
+                    "media": {
+                        "type": "img",
+                        "src": [
+                            {
+                                "mimeType": "image/jpeg",
+                                "url": "med_VJ-Mw9bjB.mediaUrl_4kuHvqbiS"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "sli_N1u~P5ZoB.id",
+                    "label": "sli_N1u~P5ZoB.choice_EklofDqWsB",
+                    "value": "sli_N1u~P5ZoB.choice_EklofDqWsB",
+                    "media": {
+                        "type": "img",
+                        "src": [
+                            {
+                                "mimeType": "image/jpeg",
+                                "url": "med_VyiGv5WsS.mediaUrl_EJjHw5WiH"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "sli_N1u~P5ZoB.id",
+                    "label": "sli_N1u~P5ZoB.choice_NkxpzDcZsB",
+                    "value": "sli_N1u~P5ZoB.choice_NkxpzDcZsB",
+                    "media": {
+                        "type": "img",
+                        "src": [
+                            {
+                                "mimeType": "image/jpeg",
+                                "url": "med_N1pGv9Wjr.mediaUrl_N1y8wq~sB"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "answers": [
+                [
+                    "sli_N1u~P5ZoB.choice_V1l-zD5~iB"
+                ]
+            ]
+        }
+    },
+    "klf": "sli_N1u~P5ZoB.klf",
+    "tips": "sli_N1u~P5ZoB.tips",
+    "lessons": []
+}

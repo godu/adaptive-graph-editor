@@ -15,7 +15,7 @@ const devWepackConfig: Configuration = {
   ...webpackConfig,
   mode: 'development',
   plugins: [
-    ...(webpackConfig.plugins || []),
+    ...(Array.isArray(webpackConfig.plugins) ? webpackConfig.plugins : []),
     new HotModuleReplacementPlugin()
   ]
 };

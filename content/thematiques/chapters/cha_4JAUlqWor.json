@@ -1,0 +1,19 @@
+{
+    "_id": "cha_4JAUlqWor",
+    "universalRef": "cha_4JAUlqWor",
+    "name": "cha_4JAUlqWor.name",
+    "stars": 20,
+    "isConditional": true,
+    "freeRun": false,
+    "isStandalone": false,
+    "groups": [
+        "ALL",
+        "them_NJaShEtGL"
+    ],
+    "partners": [
+        "part_N1WAPMLkB"
+    ],
+    "version": "12",
+    "skills": [],
+    "taggedNewUntil": "2018-12-18T16:05:33.912Z"
+}
