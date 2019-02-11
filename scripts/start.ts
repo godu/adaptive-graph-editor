@@ -5,7 +5,8 @@ import webpackConfig from '../webpack.config';
 const devServerOptions = {
   ...webpackConfig.devServer,
   hot: true,
-  host: 'localhost',
+  host: '0.0.0.0',
+  disableHostCheck: true,
   stats: {
     colors: true
   }

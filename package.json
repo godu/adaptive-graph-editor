@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "ts-node -O \"{\\\"module\\\": \\\"commonjs\\\"}\" scripts/build.ts",
     "start": "ts-node -O \"{\\\"module\\\": \\\"commonjs\\\"}\" scripts/start.ts",
     "typecheck": "tsc --noEmit",
     "tslint": "tslint -c tslint.json -p tsconfig.json",

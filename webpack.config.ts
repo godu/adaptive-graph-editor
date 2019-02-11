@@ -21,7 +21,8 @@ const configuration: Configuration = {
 
   output: {
     chunkFilename: '[name].[hash].js',
-    filename: '[name].[hash].js'
+    filename: '[name].[hash].js',
+    path: join(__dirname, 'docs')
   },
 
   optimization: {
